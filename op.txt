@@ -1,0 +1,4 @@
+MOVER 04
+MOVEM 05
+ADD   01
+SUB   02

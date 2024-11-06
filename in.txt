@@ -1,0 +1,8 @@
+START 100
+LOOP MOVER AREG, ='5'
+     ADD BREG, ='10'
+     MOVEM AREG, X
+     SUB AREG, Y
+X    DS 1
+Y    DS 1
+     END
